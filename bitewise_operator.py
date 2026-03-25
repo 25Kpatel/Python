@@ -1,0 +1,11 @@
+a=10
+b=-10
+print(a>>1)
+print(b>>1)
+x=5
+y=-10
+print(a<<1)
+print(b<<1)
+n=5
+n2=3
+print(n&n2)
